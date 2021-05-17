@@ -1,8 +1,4 @@
-<hr style="opacity: 0;"/>
-
-<p>
-<img alt="Night Coding" src="./hand_wave.gif" width='40' align="left"/><h2>Hey there! I'm Bohdan</h2>
-</p>
+## <img alt="Night Coding" src="./hand_wave.gif" width='40' align="center"/>Hey there! I'm Bohdan
 
 <!-- ## 👋 &nbsp;Hey there! I'm Bohdan -->
 
