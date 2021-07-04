@@ -9,7 +9,7 @@
 🌱 &nbsp;I'm on track for learning more about Machine Learning, Compiler Theory, and Cloud Architecture.\
 ✍️ &nbsp;I [blog](https://t.me/moderndev) occasionally on a wide range of topics including math, computer science, linguistics, and history.\
 ✉️ &nbsp;Feel free to contact me anytime you want it, I'll make sure to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [résumé](https://linkedin.com/in/bohdan-shtepan) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [résumé](https://modern-dev.com/) for more details about me. I'm open to feedback and suggestions!
 
 ### 🛠 &nbsp;Tech Stack
 
