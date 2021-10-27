@@ -4,7 +4,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💻 &nbsp;I am a software engineer with more than 5 years of professional experience delivering first-class customer service.\
+💻 &nbsp;I am a software engineer with more than 7 years of professional experience delivering first-class customer service.\
 💡 &nbsp;I'm passionate about distributed systems, high-load system design, algorithms, and data structures.\
 🌱 &nbsp;I'm on track for learning more about Machine Learning, Compiler Theory, and Cloud Architecture.\
 ✍️ &nbsp;I [blog](https://t.me/moderndev) occasionally on a wide range of topics including math, computer science, linguistics, and history.\
