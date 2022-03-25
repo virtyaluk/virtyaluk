@@ -13,28 +13,33 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-![Go](https://img.shields.io/badge/-Go-272822?style=flat&logo=go)&nbsp;
-![Python](https://img.shields.io/badge/-Python-272822?style=flat&logo=python)&nbsp;
-![C++](https://img.shields.io/badge/-C++-272822?style=flat&logo=C%2B%2B&)&nbsp;
-![C#](https://img.shields.io/badge/-C%23-272822?style=flat&logo=c%20sharp)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-272822?style=flat&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-272822?style=flat&logo=typescript)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-272822?style=flat&logo=php)\
-![MongoDB](https://img.shields.io/badge/-MongoDB-272822?style=flat&logo=MongoDB)&nbsp;
-![Kafka](https://img.shields.io/badge/-Kafka-272822?style=flat&logo=apache%20kafka)&nbsp;
-![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-272822?style=flat&logo=elasticsearch)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-272822?style=flat&logo=mysql)&nbsp;
-![Prometheus](https://img.shields.io/badge/-Prometheus-272822?style=flat&logo=prometheus)&nbsp;
-![Redis](https://img.shields.io/badge/-Redis-272822?style=flat&logo=redis)\
-![Docker](https://img.shields.io/badge/-Docker-272822?style=flat&logo=docker)&nbsp;
-![Ansible](https://img.shields.io/badge/-Ansible-272822?style=flat&logo=ansible)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-272822?style=flat&logo=linux)&nbsp;
-![DataDog](https://img.shields.io/badge/-DataDog-272822?style=flat&logo=datadog)&nbsp;
-![Raspberry PI](https://img.shields.io/badge/-Raspberry%20Pi-272822?style=flat&logo=raspberry%20pi)\
-![NodeJS](https://img.shields.io/badge/-NodeJS-272822?style=flat&logo=Node.js)&nbsp;
-![Angular](https://img.shields.io/badge/-Angular-272822?style=flat&logo=angular)&nbsp;
-![HTML5](https://img.shields.io/badge/-HTML5-272822?style=flat&logo=html5)&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-272822?style=flat&logo=css3)&nbsp;
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&color=272822)&nbsp;
+![Python](https://img.shields.io/badge/-Python-272822?style=for-the-badge&logo=python&color=272822)&nbsp;
+![C++](https://img.shields.io/badge/-C++-272822?style=for-the-badge&logo=C%2B%2B&color=272822)&nbsp;
+![C#](https://img.shields.io/badge/-C%23-272822?style=for-the-badge&logo=c%20sharp&color=272822)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-272822?style=for-the-badge&logo=javascript&color=272822)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-272822?style=for-the-badge&logo=typescript&color=272822)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-272822?style=for-the-badge&logo=php&color=272822)&nbsp;
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&color=272822)&nbsp;
+![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&color=272822)&nbsp;\
+![MongoDB](https://img.shields.io/badge/-MongoDB-272822?style=for-the-badge&logo=MongoDB&color=272822)&nbsp;
+![Kafka](https://img.shields.io/badge/-Kafka-272822?style=for-the-badge&logo=apache%20kafka&color=272822)&nbsp;
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-272822?style=for-the-badge&logo=elasticsearch&color=272822)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-272822?style=for-the-badge&logo=mysql&color=272822)&nbsp;
+![Prometheus](https://img.shields.io/badge/-Prometheus-272822?style=for-the-badge&logo=prometheus&color=272822)&nbsp;
+![Redis](https://img.shields.io/badge/-Redis-272822?style=for-the-badge&logo=redis&color=272822)\
+![Docker](https://img.shields.io/badge/-Docker-272822?style=for-the-badge&logo=docker&color=272822)&nbsp;
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&color=272822)&nbsp;
+![Ansible](https://img.shields.io/badge/-Ansible-272822?style=for-the-badge&logo=ansible&color=272822)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-272822?style=for-the-badge&logo=linux&color=272822)&nbsp;
+![DataDog](https://img.shields.io/badge/-DataDog-272822?style=for-the-badge&logo=datadog&color=272822)&nbsp;
+![Raspberry PI](https://img.shields.io/badge/-Raspberry%20Pi-272822?style=for-the-badge&logo=raspberry%20pi&color=272822)\
+![NodeJS](https://img.shields.io/badge/-NodeJS-272822?style=for-the-badge&logo=Node.js&color=272822)&nbsp;
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&color=272822)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-272822?style=for-the-badge&logo=angular&color=272822)&nbsp;
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&color=272822)&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-272822?style=for-the-badge&logo=html5&color=272822)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-272822?style=for-the-badge&logo=css3&color=272822)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -48,12 +53,12 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="left">
-<a href="https://www.modern-dev.com"><img src="https://img.shields.io/badge/-modern%97dev.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/bohdan-shtepan"><img src="https://img.shields.io/badge/-Bohdan%20Shtepan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://t.me/virtyaluk"><img src="https://img.shields.io/badge/-@virtyaluk-26A5E4?style=flat&logo=telegram&logoColor=white"/></a>
-<a href="https://leetcode.com/virtyaluk"><img src="https://img.shields.io/badge/-@virtyaluk-FFA116?style=flat&logo=leetcode&logoColor=white"/></a>
-<a href="https://twitter.com/virtyaluk"><img src="https://img.shields.io/badge/-@virtyaluk-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
-<a href="https://facebook.com/virtyaluk"><img src="https://img.shields.io/badge/-Bohdan%20Shtepan-1877F2?style=flat&logo=facebook&logoColor=white"/></a>
+<a href="https://www.modern-dev.com"><img src="https://img.shields.io/badge/-modern--dev.com-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.shtepan.com"><img src="https://img.shields.io/badge/-shtepan.com-3423A6?style=for-the-badge&logo=Photobucket&logoColor=white"/></a>
+<a href="https://linkedin.com/in/bohdan-shtepan"><img src="https://img.shields.io/badge/-Bohdan%20Shtepan-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://t.me/virtyaluk"><img src="https://img.shields.io/badge/-@virtyaluk-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://leetcode.com/virtyaluk"><img src="https://img.shields.io/badge/-@virtyaluk-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+<a href="https://twitter.com/virtyaluk"><img src="https://img.shields.io/badge/-@virtyaluk-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
 [website]: https://modern-dev.com
