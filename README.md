@@ -20,8 +20,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-272822?style=for-the-badge&logo=javascript&color=272822)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-272822?style=for-the-badge&logo=typescript&color=272822)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-272822?style=for-the-badge&logo=php&color=272822)&nbsp;
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&color=272822)&nbsp;
-![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&color=272822)&nbsp;\
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&color=272822)&nbsp;\
 ![MongoDB](https://img.shields.io/badge/-MongoDB-272822?style=for-the-badge&logo=MongoDB&color=272822)&nbsp;
 ![Kafka](https://img.shields.io/badge/-Kafka-272822?style=for-the-badge&logo=apache%20kafka&color=272822)&nbsp;
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-272822?style=for-the-badge&logo=elasticsearch&color=272822)&nbsp;
