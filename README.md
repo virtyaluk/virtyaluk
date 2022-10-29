@@ -40,25 +40,14 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-272822?style=for-the-badge&logo=html5&color=272822)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-272822?style=for-the-badge&logo=css3&color=272822)&nbsp;
 
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="left">
-<a href="https://github.com/virtyaluk">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=virtyaluk&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=virtyaluk&layout=compact&langs_count=8&theme=monokai"/>
-</a>
-</p>
-
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="left">
-<a href="https://www.modern-dev.com"><img src="https://img.shields.io/badge/-modern--dev.com-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.shtepan.com"><img src="https://img.shields.io/badge/-shtepan.com-3423A6?style=for-the-badge&logo=Photobucket&logoColor=white"/></a>
-<a href="https://linkedin.com/in/bohdan-shtepan"><img src="https://img.shields.io/badge/-Bohdan%20Shtepan-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://t.me/virtyaluk"><img src="https://img.shields.io/badge/-@virtyaluk-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-<a href="https://leetcode.com/virtyaluk"><img src="https://img.shields.io/badge/-@virtyaluk-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-<a href="https://twitter.com/virtyaluk"><img src="https://img.shields.io/badge/-@virtyaluk-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-</p>
+> [modern-dev.com](https://modern-dev.com) &nbsp;&middot;&nbsp;
+> [shtepan.com](https://shtepan.com) &nbsp;&middot;&nbsp;
+> [LinkedIn](https://linkedin.com/in/bohdan-shtepan) &nbsp;&middot;&nbsp;
+> [Telegram](https://virtyaluk.t.me/) &nbsp;&middot;&nbsp;
+> [LeetCode](https://leetcode.com/virtyaluk) &nbsp;&middot;&nbsp;
+> [Instagram](https://instagram.com/virtyaluk)
 
 [website]: https://modern-dev.com
 [twitter]: https://twitter.com/virtyaluk
