@@ -44,12 +44,12 @@
 
 > [modern-dev.com](https://modern-dev.com) &nbsp;&middot;&nbsp;
 > [shtepan.com](https://shtepan.com) &nbsp;&middot;&nbsp;
-> [LinkedIn](https://linkedin.com/in/bohdan-shtepan) &nbsp;&middot;&nbsp;
-> [Telegram](https://virtyaluk.t.me/) &nbsp;&middot;&nbsp;
+> [LinkedIn](https://www.linkedin.com/in/bohdanshtepan/) &nbsp;&middot;&nbsp;
+> [Telegram](https://BohdanShtepan.t.me/) &nbsp;&middot;&nbsp;
 > [LeetCode](https://leetcode.com/virtyaluk) &nbsp;&middot;&nbsp;
-> [Instagram](https://instagram.com/virtyaluk)
+> [Instagram](https://instagram.com/BohdanShtepan)
 
 [website]: https://modern-dev.com
-[twitter]: https://twitter.com/virtyaluk
-[instagram]: https://instagram.com/virtyaluk
-[linkedin]: https://linkedin.com/in/virtyaluk
+[twitter]: https://twitter.com/bohdanshtepan
+[instagram]: https://instagram.com/BohdanShtepan
+[linkedin]: https://linkedin.com/in/bohdanshtepan
