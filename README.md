@@ -1,17 +1,16 @@
-## <img alt="Night Coding" src="./hand_wave.gif" width='40' align="center"/>Hey there! I'm Bohdan
+## Hey there <img alt="Night Coding" src="./hand_wave.gif" width='40' align="center"/>
 
-<!-- ## 👋 &nbsp;Hey there! I'm Bohdan -->
+I'm Bohdan, a Software Engineer from Kyiv, Ukraine :ukraine:, currently living in sunny Barcelona, Spain :ceuta_melilla:.
 
 ### 👨🏻‍💻 &nbsp;About Me
-
-💻 &nbsp;I am a software engineer with more than 7 years of professional experience delivering first-class customer service.\
+<!-- ✍️ &nbsp;I [blog](https://t.me/moderndev) occasionally on a wide range of topics including math, computer science, linguistics, and history.\ -->
+💻 &nbsp;I am a software engineer with more than 8 years of professional experience delivering first-class customer service.\
 💡 &nbsp;I'm passionate about distributed systems, high-load system design, algorithms, and data structures.\
-🌱 &nbsp;I'm on track for learning more about Machine Learning, Compiler Theory, and Cloud Architecture.\
-✍️ &nbsp;I [blog](https://t.me/moderndev) occasionally on a wide range of topics including math, computer science, linguistics, and history.\
+🌱 &nbsp;I'm on track for learning more about Machine Learning, Compiler Theory, and Cloud Native Apps.\
 ✉️ &nbsp;Feel free to contact me anytime you want it, I'll make sure to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [résumé](https://modern-dev.com/) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [résumé](https://shtepan.com/resume/bohdan_shtepan_cv.pdf) for more details about me. I'm open to feedback and suggestions!
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Things I work with
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&color=272822)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-272822?style=for-the-badge&logo=python&color=272822)&nbsp;
@@ -45,11 +44,9 @@
 > [modern-dev.com](https://modern-dev.com) &nbsp;&middot;&nbsp;
 > [shtepan.com](https://shtepan.com) &nbsp;&middot;&nbsp;
 > [LinkedIn](https://www.linkedin.com/in/bohdan-shtepan/) &nbsp;&middot;&nbsp;
-> [Telegram](https://bohdan_shtepan.t.me/) &nbsp;&middot;&nbsp;
 > [LeetCode](https://leetcode.com/virtyaluk) &nbsp;&middot;&nbsp;
 > [Instagram](https://instagram.com/bohdan_shtepan)
 
 [website]: https://modern-dev.com
-[twitter]: https://twitter.com/bohdan_shtepan
 [instagram]: https://instagram.com/bohdan_shtepan
 [linkedin]: https://linkedin.com/in/bohdan-shtepan
